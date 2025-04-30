@@ -31,7 +31,7 @@
     </properties>
     <dependencies>
 
-    <!-- Dependencias principales -->
+    <!-- Dependencias principales
     <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-web</artifactId>
@@ -54,12 +54,12 @@
         <scope>runtime</scope>
     </dependency>
 
-    <!-- Dependencia para los tests -->
+     Dependencia para los tests
     <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-test</artifactId>
         <scope>test</scope>
-    </dependency>
+    </dependency>  -->
 
 
     </dependencies>
